@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:\\Users\\asus\\notebook\\rafuse_recognize\\runs\\checkpoints\\model-2000"
+all_model_checkpoint_paths: "C:\\Users\\asus\\notebook\\rafuse_recognize\\runs\\checkpoints\\model-1800"
+all_model_checkpoint_paths: "C:\\Users\\asus\\notebook\\rafuse_recognize\\runs\\checkpoints\\model-1900"
+all_model_checkpoint_paths: "C:\\Users\\asus\\notebook\\rafuse_recognize\\runs\\checkpoints\\model-2000"
